@@ -1,10 +1,5 @@
 import React from "react";
-import Comp from "../assets/comp.jpg";
-import JS from "../assets/js.jpg";
-import Keyboard from "../assets/keyboard.jpg";
-import Led from "../assets/led.jpg";
-import Love from "../assets/love.jpg";
-import Duck from "../assets/duck.jpg";
+
 
 const Projects = () => {
   return (
@@ -38,7 +33,7 @@ const Projects = () => {
               </div>
             </div>
           </div>
-          <div>
+        
           <div className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
             <div className=" ">
               <span className="text-2xl font-bold text-[#023147] tracking-wider">
@@ -59,8 +54,8 @@ const Projects = () => {
             </div>
           </div>
           
-          </div>
-          <div>
+          
+        
           <div className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
             <div className=" ">
               <span className="text-2xl font-bold text-[#023147] tracking-wider">
@@ -80,8 +75,8 @@ const Projects = () => {
               </div>
             </div>
           </div>
-          </div>
-          <div>
+         
+          
           <div className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
             <div className=" ">
               <span className="text-2xl font-bold text-[#023147] tracking-wider">
@@ -101,7 +96,7 @@ const Projects = () => {
               </div>
             </div>
           </div>
-          </div>
+          
         </div>
       </div>
     </div>
