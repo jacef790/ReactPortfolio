@@ -3,8 +3,8 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <div
-      name="home"
+    <div id="about"
+      name="hero"
       className="md:w-full md:h-screen bg-[#023147] pt-[6rem] leading-loose "
     >
       <div className="max-w-[1000px] md:w-full mx-auto px-8 flex flex-col justify center h-full">
